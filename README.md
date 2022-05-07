@@ -10,7 +10,8 @@
 
 <br>
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; JAVA | KOTLIN | RUBY | 
+
+- 💻 &nbsp; JAVA | KOTLIN | RUBY |
 - 🌐 &nbsp; RUBY ON RAILS | TURBO & STIMULUS
 - 🔧 &nbsp; ANDROID STUDIO
 
