@@ -20,7 +20,11 @@
 <a href="https://www.linkedin.com/in/rizadogukankosar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <a href="https://www.instagram.com/dogukan.kosar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" width="50" /></a>
 
-
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=rizadogukankosar&show_icons=true&theme=radical" alt="rizadogukankosar" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizadogukankosar&layout=compact&hide=html&theme=radical" alt="rizadogukankosar"/>
+</p>
 <!--
 **rizadogukankosar/rizadogukankosar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
