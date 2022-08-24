@@ -1,4 +1,4 @@
-### Hi there, I am Doğukan 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077b7&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Doğukan.+Android+Developer+-+Full+Stack+Web+Developer.)
 <hr/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
