@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Engineering on Pamukkale University.
-- 💼 &nbsp; I'm Full Stack Web & Android Developer
+- 💼 &nbsp; I'm Android Developer
 - 💒 &nbsp; I live in Denizli/Turkey
 
 <br>
