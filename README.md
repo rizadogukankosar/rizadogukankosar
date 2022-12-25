@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077b7&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Doğukan.+Android+Developer+-+Full+Stack+Web+Developer.)
 <hr/>
+<p align="center">
+  <a href="https://github.com/rizadogukankosar"><img src="https://visitor-badge.laobi.icu/badge?page_id=rizadogukankosar&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1"     alt="Ziyaret"></a>
+</p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
