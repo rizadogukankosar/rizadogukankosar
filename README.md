@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Engineering on Pamukkale University.
-- 💼 &nbsp; I'm Android Developer
+- 💼 &nbsp; I'm Full Stack Developer
 - 💒 &nbsp; I live in Denizli/Turkey
 
 <br>
@@ -21,7 +21,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/rizadogukankosar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="https://www.instagram.com/dogukan.kosar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" width="50" /></a>
+<a href="https://medium.com/@rizadogukankosar" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/SBwUhhhqt9JB/medium" width="50" /></a>
 
 ### :octocat: Github Statistics
 <p align="left">
