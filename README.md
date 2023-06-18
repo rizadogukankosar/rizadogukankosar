@@ -21,7 +21,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/rizadogukankosar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="https://medium.com/@rizadogukankosar" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/SBwUhhhqt9JB/medium" width="50" /></a>
+<a href="https://medium.com/@rizadogukankosar" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=512&id=SBwUhhhqt9JB&format=png" width="50" /></a>
 
 ### :octocat: Github Statistics
 <p align="left">
