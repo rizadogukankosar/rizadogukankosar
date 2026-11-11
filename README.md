@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077b7&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Doğukan.+Android+Developer+-+Full+Stack+Web+Developer.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0077b7&center=false&vCenter=false&width=800&lines=Hi+Everyone,+I'm+Doğukan.+Full+Stack+Web+Developer.)
 <hr/>
 <p align="center">
   <a href="https://github.com/rizadogukankosar"><img src="https://visitor-badge.laobi.icu/badge?page_id=rizadogukankosar&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1"     alt="Ziyaret"></a>
@@ -7,16 +7,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Engineering on Pamukkale University.
 - 💼 &nbsp; I'm Full Stack Developer
-- 💒 &nbsp; I live in Denizli/Turkey
+- 💒 &nbsp; I live in Turkey
 
 <br>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JAVA | KOTLIN | RUBY |
+- 💻 &nbsp; RUBY
 - 🌐 &nbsp; RUBY ON RAILS | TURBO & STIMULUS
-- 🔧 &nbsp; ANDROID STUDIO
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -28,17 +26,3 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=rizadogukankosar&show_icons=true&theme=radical" alt="rizadogukankosar" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizadogukankosar&layout=compact&hide=html&theme=radical" alt="rizadogukankosar"/>
 </p>
-<!--
-**rizadogukankosar/rizadogukankosar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on java a
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
